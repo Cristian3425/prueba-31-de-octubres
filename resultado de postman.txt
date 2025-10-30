@@ -1,0 +1,5 @@
+{
+    "estado_db": "Error al guardar en DB",
+    "id_aprendiz": 12345,
+    "riesgo_calculado": 45.0
+}
